@@ -1,0 +1,4 @@
+""" Prepare a report that includes a diagram showing the topology, type of connection devices, and speed of the wired and wireless LAN in your organization. 
+Also find out the MAC and IP addresses and the subnet mask of your computer."""
+
+# Start from here
