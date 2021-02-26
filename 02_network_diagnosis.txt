@@ -1,0 +1,4 @@
+""" Install and run a network diagnosis tool such as Tcp dump or Wireshark. Start capturing packets on an active interface, open a browser and type 
+the address of your favorite search engine. Wait till the page loads and stop capture. List out the type and number of each type of packets captured."""
+
+# Start from here
